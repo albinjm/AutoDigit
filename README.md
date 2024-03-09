@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project leverages autoencoders, a type of neural network designed for data compression and reconstruction, to denoise images and improve the accuracy of handwritten digit recognition. Utilizing the popular MNIST dataset, which comprises 60,000 labeled images of handwritten digits (0-9), we explore how adding noise to these images and subsequently denoising them with an autoencoder can affect the performance of a digit classifier.
+This project leverages autoencoders, a type of neural network designed for data compression and reconstruction, to denoise images and improve the accuracy of handwritten digit recognition. Utilizing the popular MNIST dataset, which comprises 70,000 labeled images of handwritten digits (0-9), we explore how adding noise to these images and subsequently denoising them with an autoencoder can affect the performance of a digit classifier.
 
 ### Project Objective
 
@@ -10,7 +10,7 @@ The primary goal is to demonstrate the effectiveness of autoencoders in image de
 
 ### Dataset
 
-- **MNIST Dataset**: Consists of 60,000 images of handwritten digits, each labeled with the corresponding digit (0-9).
+- **MNIST Dataset**: Consists of 70,000 images of handwritten digits, each labeled with the corresponding digit (0-9).
 
 ### Methodology
 
