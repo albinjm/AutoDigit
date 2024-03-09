@@ -1,7 +1,7 @@
 # Handwritten Digit Recognition with Auto-Encoder Enhanced Neural Networks
 
 ## Introduction
-
+![](https://albinjm.github.io/assets/img/AutoDigit.gif)
 This project leverages autoencoders, a type of neural network designed for data compression and reconstruction, to denoise images and improve the accuracy of handwritten digit recognition. Utilizing the popular MNIST dataset, which comprises 70,000 labeled images of handwritten digits (0-9), we explore how adding noise to these images and subsequently denoising them with an autoencoder can affect the performance of a digit classifier.
 
 ### Project Objective
