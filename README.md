@@ -1,7 +1,6 @@
 # Handwritten Digit Recognition with Auto-Encoder Enhanced Neural Networks
 
-[![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)](
-https://github.com/albinjm/AutoDigit/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/albinjm/AutoDigit/master/LICENSE)
 
 ![](https://albinjm.github.io/assets/img/AutoDigit.gif)
 
